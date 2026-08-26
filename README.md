@@ -32,4 +32,8 @@ leetcode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0008-string-to-integer-atoi](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Medium/0008-string-to-integer-atoi/) | Medium |
 <!---LeetCode Topics End-->
