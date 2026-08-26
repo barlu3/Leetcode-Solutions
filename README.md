@@ -9,6 +9,7 @@ leetcode solutions
 | [0004-median-of-two-sorted-arrays](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0014-longest-common-prefix](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 | [0027-remove-element](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/0027-remove-element/) | Easy |
+| [1748-sum-of-unique-elements](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/1748-sum-of-unique-elements/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -22,6 +23,7 @@ leetcode solutions
 | ------- | ------- |
 | [0001-two-sum](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [1748-sum-of-unique-elements](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/1748-sum-of-unique-elements/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -83,4 +85,8 @@ leetcode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/0653-two-sum-iv-input-is-a-bst/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1748-sum-of-unique-elements](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/1748-sum-of-unique-elements/) | Easy |
 <!---LeetCode Topics End-->
