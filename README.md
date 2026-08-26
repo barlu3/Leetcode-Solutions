@@ -27,6 +27,7 @@ leetcode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
+| [0007-reverse-integer](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Medium/0007-reverse-integer/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
