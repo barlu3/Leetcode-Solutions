@@ -45,7 +45,7 @@ leetcode solutions
 | [0014-longest-common-prefix](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Hard/0032-longest-valid-parentheses/) | Hard |
-| [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/barlu3/Leetcode-Solutions/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/barlu3/Leetcode-Solutions/tree/master/LeetCode/Hard/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Trie
 |  |
 | ------- |
@@ -66,7 +66,7 @@ leetcode solutions
 | ------- |
 | [0027-remove-element](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/0027-remove-element/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/0653-two-sum-iv-input-is-a-bst/) | Easy |
-| [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/barlu3/Leetcode-Solutions/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/barlu3/Leetcode-Solutions/tree/master/LeetCode/Hard/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Tree
 |  |
 | ------- |
@@ -101,5 +101,5 @@ leetcode solutions
 ## Enumeration
 |  |
 | ------- |
-| [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/barlu3/Leetcode-Solutions/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/barlu3/Leetcode-Solutions/tree/master/LeetCode/Hard/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
