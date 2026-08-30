@@ -2,6 +2,7 @@ import argparse
 import os
 import re
 import shutil
+import subprocess
 
 # LeetHub drops each new problem as a top-level folder in the repo root.
 # This script files those loose folders into LeetCode/<Difficulty>/.
@@ -28,6 +29,99 @@ def detect_difficulty(readme_path):
     if len(found) == 1:
         return found[0]
     return None
+
+
+ROOT_README = "README.md"
+
+# LeetHub appends one table row per problem/topic, pointing at wherever the
+# folder sat when it was committed:
+#   | [0001-two-sum](https://github.com/<user>/<repo>/tree/master/0001-two-sum) |
+# After a move those links are stale, so rows get rewritten from what is
+# actually on disk. The link target and trailing cells are rebuilt from
+# scratch, so only the row prefix, slug, and repo URL base are captured.
+README_ROW = re.compile(
+    r"^(?P<prefix>\|\s*\[)(?P<slug>[^\]]+)\]\("
+    r"(?P<base>https://github\.com/[^/]+/[^/]+)/tree/[^/)]+/[^)]*\).*$"
+)
+
+
+def current_branch(repo_path):
+    """Branch name to use in README links; falls back to 'main'."""
+    try:
+        result = subprocess.run(
+            ["git", "-C", repo_path, "symbolic-ref", "--short", "HEAD"],
+            capture_output=True, text=True, timeout=10)
+        if result.returncode == 0 and result.stdout.strip():
+            return result.stdout.strip()
+    except (OSError, subprocess.SubprocessError):
+        pass
+    return "main"
+
+
+def index_problems(repo_path):
+    """Map each problem slug to the difficulty folder it currently lives in."""
+    located = {}
+    leetcode_path = os.path.join(repo_path, LEETCODE_DIR)
+    for difficulty in DIFFICULTIES:
+        difficulty_path = os.path.join(leetcode_path, difficulty)
+        if not os.path.isdir(difficulty_path):
+            continue
+        for slug in os.listdir(difficulty_path):
+            if os.path.isdir(os.path.join(difficulty_path, slug)):
+                located[slug] = difficulty
+    return located
+
+
+def update_root_readme(repo_path, dry_run=False):
+    """Repoint root README rows at each problem's real location."""
+    readme_path = os.path.join(repo_path, ROOT_README)
+    if not os.path.exists(readme_path):
+        print(f"No {ROOT_README} at repo root; skipping link update.")
+        return
+
+    located = index_problems(repo_path)
+    branch = current_branch(repo_path)
+
+    with open(readme_path, 'r', encoding='utf-8') as f:
+        lines = f.read().splitlines(keepends=True)
+
+    changed = 0
+    unknown = set()
+    for i, line in enumerate(lines):
+        match = README_ROW.match(line.rstrip("\n"))
+        if not match:
+            continue
+
+        slug = match.group("slug")
+        difficulty = located.get(slug)
+        if not difficulty:
+            unknown.add(slug)
+            continue
+
+        newline = "\n" if line.endswith("\n") else ""
+        target = f"{LEETCODE_DIR}/{difficulty}/{slug}/"
+        # Rebuild the trailing cells so the difficulty column is always
+        # present and correct, even on rows LeetHub wrote without one.
+        rebuilt = (f"{match.group('prefix')}{slug}]({match.group('base')}"
+                   f"/tree/{branch}/{target}) | {difficulty} |{newline}")
+
+        if rebuilt != line:
+            lines[i] = rebuilt
+            changed += 1
+
+    for slug in sorted(unknown):
+        print(f"README row left as-is (problem not found on disk): {slug}")
+
+    if not changed:
+        print(f"{ROOT_README} already up to date.")
+        return
+
+    if dry_run:
+        print(f"Would update {changed} link(s) in {ROOT_README}.")
+    else:
+        with open(readme_path, 'w', encoding='utf-8') as f:
+            f.writelines(lines)
+        print(f"Updated {changed} link(s) in {ROOT_README}.")
 
 
 def find_loose_problems(repo_path):
@@ -78,6 +172,8 @@ def organize_leethub_repo(repo_path=".", dry_run=False):
         moved += 1
 
     print(f"\n{moved} moved, {skipped} skipped.")
+
+    update_root_readme(repo_path, dry_run)
 
 
 if __name__ == "__main__":

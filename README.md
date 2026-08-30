@@ -10,7 +10,7 @@ leetcode solutions
 | [0014-longest-common-prefix](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 | [0027-remove-element](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/0027-remove-element/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/1748-sum-of-unique-elements/) | Easy |
-| [2212-removing-minimum-and-maximum-from-array](https://github.com/barlu3/Leetcode-Solutions/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [2212-removing-minimum-and-maximum-from-array](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Medium/2212-removing-minimum-and-maximum-from-array/) | Medium |
 ## Binary Search
 |  |
 | ------- |
@@ -46,7 +46,7 @@ leetcode solutions
 | [0014-longest-common-prefix](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Hard/0032-longest-valid-parentheses/) | Hard |
-| [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/barlu3/Leetcode-Solutions/tree/master/LeetCode/Hard/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Hard/4037-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Trie
 |  |
 | ------- |
@@ -67,7 +67,7 @@ leetcode solutions
 | ------- |
 | [0027-remove-element](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/0027-remove-element/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/0653-two-sum-iv-input-is-a-bst/) | Easy |
-| [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/barlu3/Leetcode-Solutions/tree/master/LeetCode/Hard/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Hard/4037-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Tree
 |  |
 | ------- |
@@ -102,9 +102,9 @@ leetcode solutions
 ## Enumeration
 |  |
 | ------- |
-| [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/barlu3/Leetcode-Solutions/tree/master/LeetCode/Hard/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Hard/4037-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Greedy
 |  |
 | ------- |
-| [2212-removing-minimum-and-maximum-from-array](https://github.com/barlu3/Leetcode-Solutions/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [2212-removing-minimum-and-maximum-from-array](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Medium/2212-removing-minimum-and-maximum-from-array/) | Medium |
 <!---LeetCode Topics End-->
