@@ -10,6 +10,7 @@ leetcode solutions
 | [0014-longest-common-prefix](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 | [0027-remove-element](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/0027-remove-element/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/1748-sum-of-unique-elements/) | Easy |
+| [2212-removing-minimum-and-maximum-from-array](https://github.com/barlu3/Leetcode-Solutions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -102,4 +103,8 @@ leetcode solutions
 |  |
 | ------- |
 | [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/barlu3/Leetcode-Solutions/tree/master/LeetCode/Hard/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+## Greedy
+|  |
+| ------- |
+| [2212-removing-minimum-and-maximum-from-array](https://github.com/barlu3/Leetcode-Solutions/tree/master/2212-removing-minimum-and-maximum-from-array) |
 <!---LeetCode Topics End-->
