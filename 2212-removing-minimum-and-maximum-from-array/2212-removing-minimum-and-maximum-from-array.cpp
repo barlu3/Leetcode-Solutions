@@ -2,9 +2,7 @@ class Solution {
 public:
     int minimumDeletions(vector<int>& nums) {
         const int n = nums.size();
-
-        if (n == 1) return 1;
-        
+                
         int idxMin = 0, idxMax = 0;
         for (int i = 0; i < nums.size(); i++) {
             if (nums[i] > nums[idxMax]) { idxMax = i; }
