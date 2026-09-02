@@ -11,7 +11,7 @@ leetcode solutions
 | [0027-remove-element](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/0027-remove-element/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/1748-sum-of-unique-elements/) | Easy |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Medium/2212-removing-minimum-and-maximum-from-array/) | Medium |
-| [4256-construct-uniform-parity-array-i](https://github.com/barlu3/Leetcode-Solutions/tree/master/4256-construct-uniform-parity-array-i) |
+| [4256-construct-uniform-parity-array-i](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/4256-construct-uniform-parity-array-i/) | Easy |
 ## Binary Search
 |  |
 | ------- |
@@ -36,7 +36,7 @@ leetcode solutions
 | [0002-add-two-numbers](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Medium/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/0009-palindrome-number/) | Easy |
-| [4256-construct-uniform-parity-array-i](https://github.com/barlu3/Leetcode-Solutions/tree/master/4256-construct-uniform-parity-array-i) |
+| [4256-construct-uniform-parity-array-i](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/4256-construct-uniform-parity-array-i/) | Easy |
 ## Recursion
 |  |
 | ------- |
