@@ -9,9 +9,9 @@ leetcode solutions
 | [0004-median-of-two-sorted-arrays](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
 | [0014-longest-common-prefix](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 | [0027-remove-element](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/0027-remove-element/) | Easy |
-| [0049-group-anagrams](https://github.com/barlu3/Leetcode-Solutions/tree/master/0049-group-anagrams) |
-| [0217-contains-duplicate](https://github.com/barlu3/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
-| [0347-top-k-frequent-elements](https://github.com/barlu3/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0049-group-anagrams](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
+| [0217-contains-duplicate](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [1748-sum-of-unique-elements](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/1748-sum-of-unique-elements/) | Easy |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Medium/2212-removing-minimum-and-maximum-from-array/) | Medium |
 | [4256-construct-uniform-parity-array-i](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/4256-construct-uniform-parity-array-i/) | Easy |
@@ -23,15 +23,15 @@ leetcode solutions
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Hard/0004-median-of-two-sorted-arrays/) | Hard |
-| [0347-top-k-frequent-elements](https://github.com/barlu3/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0347-top-k-frequent-elements](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
-| [0049-group-anagrams](https://github.com/barlu3/Leetcode-Solutions/tree/master/0049-group-anagrams) |
-| [0217-contains-duplicate](https://github.com/barlu3/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
-| [0242-valid-anagram](https://github.com/barlu3/Leetcode-Solutions/tree/master/0242-valid-anagram) |
-| [0347-top-k-frequent-elements](https://github.com/barlu3/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0049-group-anagrams](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
+| [0217-contains-duplicate](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/1748-sum-of-unique-elements/) | Easy |
 ## Linked List
@@ -56,8 +56,8 @@ leetcode solutions
 | [0014-longest-common-prefix](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Hard/0032-longest-valid-parentheses/) | Hard |
-| [0049-group-anagrams](https://github.com/barlu3/Leetcode-Solutions/tree/master/0049-group-anagrams) |
-| [0242-valid-anagram](https://github.com/barlu3/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0049-group-anagrams](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
+| [0242-valid-anagram](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
 | [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Hard/4037-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Trie
 |  |
@@ -106,7 +106,7 @@ leetcode solutions
 ## Counting
 |  |
 | ------- |
-| [0347-top-k-frequent-elements](https://github.com/barlu3/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0347-top-k-frequent-elements](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [1748-sum-of-unique-elements](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/1748-sum-of-unique-elements/) | Easy |
 ## Dynamic Programming
 |  |
@@ -123,20 +123,20 @@ leetcode solutions
 ## Sorting
 |  |
 | ------- |
-| [0049-group-anagrams](https://github.com/barlu3/Leetcode-Solutions/tree/master/0049-group-anagrams) |
-| [0217-contains-duplicate](https://github.com/barlu3/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
-| [0242-valid-anagram](https://github.com/barlu3/Leetcode-Solutions/tree/master/0242-valid-anagram) |
-| [0347-top-k-frequent-elements](https://github.com/barlu3/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0049-group-anagrams](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
+| [0217-contains-duplicate](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 ## Heap (Priority Queue)
 |  |
 | ------- |
-| [0347-top-k-frequent-elements](https://github.com/barlu3/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0347-top-k-frequent-elements](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 ## Bucket Sort
 |  |
 | ------- |
-| [0347-top-k-frequent-elements](https://github.com/barlu3/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0347-top-k-frequent-elements](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 ## Quickselect
 |  |
 | ------- |
-| [0347-top-k-frequent-elements](https://github.com/barlu3/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0347-top-k-frequent-elements](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
