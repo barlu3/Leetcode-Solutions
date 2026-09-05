@@ -24,6 +24,7 @@ leetcode solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
+| [0242-valid-anagram](https://github.com/barlu3/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/1748-sum-of-unique-elements/) | Easy |
 ## Linked List
@@ -48,6 +49,7 @@ leetcode solutions
 | [0014-longest-common-prefix](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Hard/0032-longest-valid-parentheses/) | Hard |
+| [0242-valid-anagram](https://github.com/barlu3/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Hard/4037-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Trie
 |  |
@@ -109,4 +111,8 @@ leetcode solutions
 |  |
 | ------- |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Medium/2212-removing-minimum-and-maximum-from-array/) | Medium |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/barlu3/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
