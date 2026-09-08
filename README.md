@@ -44,7 +44,7 @@ leetcode solutions
 | [0002-add-two-numbers](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
 | [0007-reverse-integer](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Medium/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/0009-palindrome-number/) | Easy |
-| [3870-count-commas-in-range](https://github.com/barlu3/Leetcode-Solutions/tree/master/3870-count-commas-in-range) |
+| [3870-count-commas-in-range](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/3870-count-commas-in-range/) | Easy |
 | [4256-construct-uniform-parity-array-i](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/4256-construct-uniform-parity-array-i/) | Easy |
 ## Recursion
 |  |
