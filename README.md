@@ -58,6 +58,7 @@ leetcode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Medium/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Medium/0008-string-to-integer-atoi/) | Medium |
 | [0014-longest-common-prefix](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/0020-valid-parentheses/) | Easy |
@@ -84,6 +85,7 @@ leetcode solutions
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0027-remove-element](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/0027-remove-element/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Hard/4037-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
@@ -118,6 +120,7 @@ leetcode solutions
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Hard/0032-longest-valid-parentheses/) | Hard |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -154,4 +157,8 @@ leetcode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0739-daily-temperatures](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Medium/0739-daily-temperatures/) | Medium |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
