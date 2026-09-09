@@ -2,12 +2,12 @@ class Solution {
 public:
     string longestPalindrome(string s) {
         if (s.empty()) return "";
-        int start = 0, maxLength = 1;
+        int start = 0, maxLength = 1, currentLength = 0;
 
         // Helper lambda to expand outward from a center
         auto expand = [&](int left, int right) {
             while (left >= 0 && right < s.size() && s[left] == s[right]) {
-                int currentLength = right - left + 1;
+                currentLength = right - left + 1;
                 if (currentLength > maxLength) {
                     maxLength = currentLength;
                     start = left;
