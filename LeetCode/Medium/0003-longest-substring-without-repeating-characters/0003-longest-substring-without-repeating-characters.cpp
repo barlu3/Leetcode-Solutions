@@ -2,8 +2,8 @@ class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
         unordered_set<char> mp;
-        int left = 0, best = 0;
-        for (int right = 0; right < s.size(); right++) {
+        size_t left = 0, best = 0;
+        for (size_t right = 0; right < s.size(); right++) {
             while (mp.count(s[right])) {
                 mp.erase(s[left]);
                 left++;
