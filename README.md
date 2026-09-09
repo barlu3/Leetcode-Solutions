@@ -13,7 +13,7 @@ leetcode solutions
 | [0217-contains-duplicate](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [1748-sum-of-unique-elements](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/1748-sum-of-unique-elements/) | Easy |
-| [1848-minimum-distance-to-the-target-element](https://github.com/barlu3/Leetcode-Solutions/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/1848-minimum-distance-to-the-target-element/) | Easy |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Medium/2212-removing-minimum-and-maximum-from-array/) | Medium |
 | [4256-construct-uniform-parity-array-i](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/4256-construct-uniform-parity-array-i/) | Easy |
 ## Binary Search
@@ -46,7 +46,7 @@ leetcode solutions
 | [0007-reverse-integer](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Medium/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/0009-palindrome-number/) | Easy |
 | [3870-count-commas-in-range](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/3870-count-commas-in-range/) | Easy |
-| [3871-count-commas-in-range-ii](https://github.com/barlu3/Leetcode-Solutions/tree/master/3871-count-commas-in-range-ii) |
+| [3871-count-commas-in-range-ii](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Medium/3871-count-commas-in-range-ii/) | Medium |
 | [4256-construct-uniform-parity-array-i](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/4256-construct-uniform-parity-array-i/) | Easy |
 ## Recursion
 |  |
