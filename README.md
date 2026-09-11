@@ -16,6 +16,7 @@ leetcode solutions
 | [1748-sum-of-unique-elements](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/1748-sum-of-unique-elements/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/1848-minimum-distance-to-the-target-element/) | Easy |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Medium/2212-removing-minimum-and-maximum-from-array/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 | [4256-construct-uniform-parity-array-i](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/4256-construct-uniform-parity-array-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -37,6 +38,7 @@ leetcode solutions
 | [0347-top-k-frequent-elements](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Medium/0347-top-k-frequent-elements/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/1748-sum-of-unique-elements/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -54,6 +56,7 @@ leetcode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Medium/0002-add-two-numbers/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -126,6 +129,7 @@ leetcode solutions
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/3483-unique-3-digit-even-numbers/) | Easy |
 | [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Hard/4037-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
