@@ -166,4 +166,8 @@ leetcode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
+## Shell
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0192-word-frequency](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Medium/0192-word-frequency/) | Medium |
 <!---LeetCode Topics End-->
