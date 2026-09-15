@@ -70,6 +70,7 @@ leetcode solutions
 | [0032-longest-valid-parentheses](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0049-group-anagrams](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Hard/4037-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
@@ -93,6 +94,7 @@ leetcode solutions
 | [0005-longest-palindromic-substring](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0027-remove-element](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/0027-remove-element/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Hard/4037-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
@@ -127,6 +129,7 @@ leetcode solutions
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Hard/0032-longest-valid-parentheses/) | Hard |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -136,6 +139,7 @@ leetcode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Medium/2212-removing-minimum-and-maximum-from-array/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
