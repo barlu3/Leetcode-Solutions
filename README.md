@@ -50,6 +50,7 @@ leetcode solutions
 | [0007-reverse-integer](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Medium/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/0009-palindrome-number/) | Easy |
 | [0836-rectangle-overlap](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/0836-rectangle-overlap/) | Easy |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3870-count-commas-in-range](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Medium/3871-count-commas-in-range-ii/) | Medium |
 | [4256-construct-uniform-parity-array-i](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/4256-construct-uniform-parity-array-i/) | Easy |
@@ -129,6 +130,7 @@ leetcode solutions
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Medium/0005-longest-palindromic-substring/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Hard/0032-longest-valid-parentheses/) | Hard |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -179,4 +181,12 @@ leetcode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/0836-rectangle-overlap/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 <!---LeetCode Topics End-->
