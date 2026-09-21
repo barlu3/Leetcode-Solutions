@@ -17,6 +17,7 @@ leetcode solutions
 | [1848-minimum-distance-to-the-target-element](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/1848-minimum-distance-to-the-target-element/) | Easy |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Medium/2212-removing-minimum-and-maximum-from-array/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/3483-unique-3-digit-even-numbers/) | Easy |
+| [3524-find-x-value-of-array-i](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Medium/3524-find-x-value-of-array-i/) | Medium |
 | [4256-construct-uniform-parity-array-i](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/4256-construct-uniform-parity-array-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -52,6 +53,7 @@ leetcode solutions
 | [0009-palindrome-number](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/0009-palindrome-number/) | Easy |
 | [0836-rectangle-overlap](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/0836-rectangle-overlap/) | Easy |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [3524-find-x-value-of-array-i](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Medium/3524-find-x-value-of-array-i/) | Medium |
 | [3870-count-commas-in-range](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Medium/3871-count-commas-in-range-ii/) | Medium |
 | [4256-construct-uniform-parity-array-i](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/4256-construct-uniform-parity-array-i/) | Easy |
@@ -135,6 +137,7 @@ leetcode solutions
 | [0032-longest-valid-parentheses](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Hard/0032-longest-valid-parentheses/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Medium/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [3524-find-x-value-of-array-i](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Medium/3524-find-x-value-of-array-i/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
