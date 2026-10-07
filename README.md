@@ -79,6 +79,7 @@ leetcode solutions
 | [0032-longest-valid-parentheses](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Hard/0032-longest-valid-parentheses/) | Hard |
 | [0049-group-anagrams](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Medium/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/0242-valid-anagram/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Hard/0301-remove-invalid-parentheses/) | Hard |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Medium/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Medium/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Hard/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -132,6 +133,7 @@ leetcode solutions
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Hard/0301-remove-invalid-parentheses/) | Hard |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Easy/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -223,4 +225,5 @@ leetcode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Medium/0022-generate-parentheses/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/barlu3/Leetcode-Solutions/tree/main/LeetCode/Hard/0301-remove-invalid-parentheses/) | Hard |
 <!---LeetCode Topics End-->
