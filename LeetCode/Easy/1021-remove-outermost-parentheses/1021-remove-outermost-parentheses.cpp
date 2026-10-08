@@ -1,6 +1,6 @@
 class Solution {
 public:
-    string removeOuterParentheses(string& s) {
+    string& removeOuterParentheses(string& s) {
         // (()())(())
         // ======
         // ()()()
@@ -8,7 +8,7 @@ public:
         for (uint32_t i = 0; i < n; i++) {
             const char c = s[i];
             balance += (c == '(') ? 1 : -1;
-            if ((balance ==1 && c=='(') || (balance==0 && c==')')) continue;
+            if ((balance == 1 && c=='(') || (balance==0 && c==')')) continue;
             s[j++] = s[i];
         }
         s.resize(j);
